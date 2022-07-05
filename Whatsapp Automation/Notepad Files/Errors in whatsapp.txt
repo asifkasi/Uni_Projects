@@ -1,0 +1,6 @@
+https://www.edureka.co/community/55217/resolve-elementnotinteractableexception-selenium-webdriver
+https://www.tutorialspoint.com/how-do-i-resolve-the-elementnotinteractableexception-in-selenium-webdriver
+https://stackoverflow.com/questions/48676588/python-selenium-elementnotinteractableexception-error-on-click
+ElementNotInteractableException in python
+
+agr selenium browser full screen na hun toh error ata ha. 

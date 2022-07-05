@@ -1,0 +1,1 @@
+            MessageBox.Show("Marks obtain in Section A "+ansss[0]+"Marks obtain in Section A "+ansss[1]+"Marks obtain in Section A "+ansss[2]+"Marks obtain in Section A "+ansss[3]+"Total correct answers are " + sq.totalmarks());

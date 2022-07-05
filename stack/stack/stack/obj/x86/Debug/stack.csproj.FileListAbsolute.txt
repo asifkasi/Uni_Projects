@@ -1,0 +1,16 @@
+c:\users\lab5\documents\visual studio 2010\Projects\stack\stack\bin\Debug\stack.exe
+c:\users\lab5\documents\visual studio 2010\Projects\stack\stack\bin\Debug\stack.pdb
+c:\users\lab5\documents\visual studio 2010\Projects\stack\stack\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab5\documents\visual studio 2010\Projects\stack\stack\obj\x86\Debug\stack.exe
+c:\users\lab5\documents\visual studio 2010\Projects\stack\stack\obj\x86\Debug\stack.pdb
+C:\Users\Saqlain\Desktop\kasi stack\stack\stack\obj\x86\Debug\stack.exe
+C:\Users\Saqlain\Desktop\kasi stack\stack\stack\obj\x86\Debug\stack.pdb
+C:\Users\Saqlain\Desktop\kasi stack\stack\stack\bin\Debug\stack.exe
+C:\Users\Saqlain\Desktop\kasi stack\stack\stack\bin\Debug\stack.pdb
+C:\Users\Saqlain\Desktop\kasi stack\stack\stack\obj\x86\Debug\stack.csprojResolveAssemblyReference.cache
+C:\Users\Asif_\Downloads\stack\stack\stack\bin\Debug\stack.exe
+C:\Users\Asif_\Downloads\stack\stack\stack\bin\Debug\stack.pdb
+C:\Users\Asif_\Downloads\stack\stack\stack\obj\x86\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\Asif_\Downloads\stack\stack\stack\obj\x86\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\Asif_\Downloads\stack\stack\stack\obj\x86\Debug\stack.exe
+C:\Users\Asif_\Downloads\stack\stack\stack\obj\x86\Debug\stack.pdb

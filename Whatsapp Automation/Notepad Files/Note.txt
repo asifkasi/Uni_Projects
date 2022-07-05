@@ -1,0 +1,1 @@
+do not crop the whatsapp screen. it will buil an error

@@ -1,0 +1,145 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace opp_project_black_screen
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[,] question= new string[11,6];
+            int [] num=new int[12];
+
+            question[0, 0] = "1+2 = ________\n";
+            question[0, 1] = "3";
+            question[0, 2] = "5";
+            question[0, 3] = "-2";
+            question[0, 4] = "6";
+            question[0, 5] = "3"; // Correct ans
+
+
+            question[1, 0] = "1-2 = ________\n";
+            question[1, 1] = "3";
+            question[1, 2] = "5";
+            question[1, 3] = "-1";
+            question[1, 4] = "6";
+            question[1, 5] = "-1"; // Correct ans
+
+            question[2, 0] = "-1-2 = ________\n";
+            question[2, 1] = "3";
+            question[2, 2] = "5";
+            question[2, 3] = "-9";
+            question[2, 4] = "6";
+            question[2, 5] = "-3"; // Correct ans
+
+
+            question[3, 0] = "1*2 = ________\n";
+            question[3, 1] = "3";
+            question[3, 2] = "5";
+            question[3, 3] = "2";
+            question[3, 4] = "6";
+            question[3, 5] = "2"; // Correct ans
+
+
+
+            question[4, 0] = "2*2 = ________\n";
+            question[4, 1] = "3";
+            question[4, 2] = "5";
+            question[4, 3] = "-1";
+            question[4, 4] = "4";
+            question[4, 5] = "4"; // Correct ans
+
+            question[5, 0] = "1-3-2 = ________\n";
+            question[5, 1] = "-4";
+            question[5, 2] = "5";
+            question[5, 3] = "-1";
+            question[5, 4] = "6";
+            question[5, 5] = "-4"; // Correct ans
+
+
+            question[6, 0] = "11-2 = ________\n";
+            question[6, 1] = "3";
+            question[6, 2] = "9";
+            question[6, 3] = "-1";
+            question[6, 4] = "6";
+            question[6, 5] = "9"; // Correct ans
+
+            question[7, 0] = "1+2-2 = ________\n";
+            question[7, 1] = "3";
+            question[7, 2] = "5";
+            question[7, 3] = "1";
+            question[7, 4] = "6";
+            question[7, 5] = "1"; // Correct ans
+
+            question[8, 0] = "21-2 = ________\n";
+            question[8, 1] = "19";
+            question[8, 2] = "5";
+            question[8, 3] = "-1";
+            question[8, 4] = "6";
+            question[8, 5] = "19"; // Correct ans
+
+            question[9, 0] = "10/2 = ________\n";
+            question[9, 1] = "3";
+            question[9, 2] = "5";
+            question[9, 3] = "-1";
+            question[9, 4] = "6";
+            question[9, 5] = "5"; // Correct ans
+
+            question[10, 0] = "12/3 = ________\n";
+            question[10, 1] = "3";
+            question[10, 2] = "4";
+            question[10, 3] = "-1";
+            question[10, 4] = "6";
+            question[10, 5] = "4"; // Correct ans
+            int[] x = new int[10];
+            Random r = new Random();
+
+            int i;
+            for (i = 0; i < x.Length; i++)
+            {
+                int next = 0;
+                while (true)
+                {
+                    next = r.Next(11);
+
+                    if (Contains(x, next) == false)
+
+                        break;
+                }
+
+                x[i] = next;
+            }
+
+            int count = 0;
+            Console.WriteLine("\t\t Please enter the correct answer");
+            for (int i2 = 0; i2 < 10; i2++)
+            {
+                Console.Write("{0}) ",i2+1);
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write(question[x[i2], j] + "  ");
+                }
+                int ans = Convert.ToInt16(Console.ReadLine());
+                string ans1 = (ans).ToString();
+                if (ans1 == question[x[i2], 5])
+                {
+                    count++;
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("total correct ans is "+count);
+            Console.ReadLine();
+
+        }
+        static bool Contains(int[] array, int value)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] == value) return true;
+            }
+            return false;
+        }
+    }
+}

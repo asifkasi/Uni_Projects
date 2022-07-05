@@ -1,0 +1,23 @@
+c:\users\odbc\documents\visual studio 2010\Projects\postfix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.exe
+c:\users\odbc\documents\visual studio 2010\Projects\postfix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.pdb
+c:\users\odbc\documents\visual studio 2010\Projects\postfix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.exe
+c:\users\odbc\documents\visual studio 2010\Projects\postfix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\postfix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\postfix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\postfix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\postfix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\Prefix notation\postfix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\Prefix notation\postfix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.exe
+D:\ASIF DATA\University data\3rd sem\ds Lab\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.exe
+D:\ASIF DATA\University data\3rd sem\ds Lab\DS lab work (Polish notation)\Prefix notation\prefix_simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.exe
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.exe
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\simplificatoin\postfix_simplificatoin\bin\Debug\postfix_simplificatoin.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\simplificatoin\postfix_simplificatoin\obj\x86\Debug\postfix_simplificatoin.csprojResolveAssemblyReference.cache

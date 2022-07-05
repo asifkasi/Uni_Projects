@@ -1,0 +1,33 @@
+c:\users\temp\documents\visual studio 2010\Projects\polishNotation_p0st_infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.exe
+c:\users\temp\documents\visual studio 2010\Projects\polishNotation_p0st_infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.pdb
+c:\users\temp\documents\visual studio 2010\Projects\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2010\Projects\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+c:\users\temp\documents\visual studio 2010\Projects\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\polishNotation_p0st_infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\polishNotation_p0st_infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\DS lab work (Polish notation)\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.csprojResolveAssemblyReference.cache
+C:\Users\Saqlain\Desktop\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\polishNotation_p0st_infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\polishNotation_p0st_infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\polishNotation_p0st_infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.csprojResolveAssemblyReference.cache
+C:\Users\Saqlain\Desktop\ds lab\polishNotation pre infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\ds lab\polishNotation pre infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\ds lab\polishNotation pre infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\ds lab\polishNotation pre infix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Saqlain\Desktop\ds lab\polishNotation pre infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.csprojResolveAssemblyReference.cache
+C:\Users\Saqlain\Desktop\ds lab\PREFIX\polish Notation pre infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+C:\Users\Saqlain\Desktop\ds lab\PREFIX\polish Notation pre infix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.exe
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.pdb
+D:\ASIF DATA\University data\3rd sem\ds Lab\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.csprojResolveAssemblyReference.cache
+C:\Users\Asif_\Downloads\Polish notation\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.exe
+C:\Users\Asif_\Downloads\Polish notation\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\bin\Debug\polishNotation_p0st_infix.pdb
+C:\Users\Asif_\Downloads\Polish notation\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.csproj.AssemblyReference.cache
+C:\Users\Asif_\Downloads\Polish notation\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.csproj.CoreCompileInputs.cache
+C:\Users\Asif_\Downloads\Polish notation\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.exe
+C:\Users\Asif_\Downloads\Polish notation\Polish notation\PREFIX\Infix to prefix\polishNotation_p0st_infix\obj\x86\Debug\polishNotation_p0st_infix.pdb
