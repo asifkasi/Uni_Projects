@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace tictac9478
+{
+    class Program
+    {
+static void Main()
+        {
+        
+           
+            int[] x = new int[10];
+            Random r = new Random();
+
+           
+            for (int i = 0; i < x.Length; i++)
+            {
+                int next = 0;
+                while (true)
+                {
+                    next = r.Next(1,11);
+
+                    if (Contains(x, next,i) == false)
+
+                        break;
+                }
+
+                x[i] = next;
+            }
+            for (int i = 0; i < x.Length; i++)
+            {
+                Console.WriteLine(x[i]);
+            }
+            Console.ReadLine();
+
+        }
+
+
+
+        static bool Contains(int[] array, int value, int up)
+        {
+            for (int i = 0; i < up; i++)
+            {
+                if (array[i] == value) return true;
+            }
+            return false;
+        }
+}
+}

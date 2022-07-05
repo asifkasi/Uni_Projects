@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=zhpI6Yhz9_4
+
+4-7-22
+
+1. install latest version python from store
+2. VS code
+3. python extension from VS code
